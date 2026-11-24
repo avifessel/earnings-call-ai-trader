@@ -1,0 +1,6 @@
+# One call per line: a name, a space, then the stream link (.m3u8 / .mp3 / .mp4).
+# Name format: ticker_q#_year, e.g. msft_q1_2027. Use the same name for the press release file.
+# Lines starting with # are ignored. Copy this file to downloads.txt, add your links, then run:
+#   .venv/bin/python grab_audio.py --list downloads.txt
+#
+# example_q1_2027 https://example.com/path/to/stream/master.m3u8

@@ -1,0 +1,21 @@
+# Secrets: Anthropic and Alpaca keys
+.env
+
+# Local tools and environment
+.venv/
+.bin/
+__pycache__/
+.DS_Store
+
+# Call recordings, press releases, caches and results stay on this computer
+# (recordings are large and copyrighted; the folders are kept so the code can find them)
+data/audio/*
+!data/audio/.gitkeep
+data/press_releases/*
+!data/press_releases/.gitkeep
+data/cache/*
+!data/cache/.gitkeep
+results/
+
+# Webcast stream links can be private, session-specific URLs
+downloads.txt

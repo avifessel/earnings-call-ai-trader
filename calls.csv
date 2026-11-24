@@ -1,0 +1,13 @@
+call_id,ticker,company_name,call_start_et,audio_file,audio_offset_sec,press_release_file,eps_actual,eps_estimate,revenue_actual,revenue_estimate,notes,expectations,start_verified
+AAPL_2026Q4,AAPL,Apple,2026-11-02 17:00,aapl_q4_2026.m4a,0,aapl_q4_2026.txt,2.10,1.99,114500000000,113390000000,FY26 Q4. EPS incl $0.05 tariff refund. Beat but stock fell after hours.,,
+MSFT_2027Q1,MSFT,Microsoft,2026-10-28 17:30,msft_q1_2027.m4a,0,,4.89,4.72,92280000000,90620000000,FY27 Q1 (Sep qtr).,,
+AMZN_2026Q3,AMZN,Amazon,2026-10-29 17:00,amzn_q3_2026.m4a,0,,1.89,1.97,201940000000,202220000000,EPS miss.,Street expects Q4 net sales of about $244.2 billion.,
+INTC_2026Q3,INTC,Intel,2026-10-29 17:00,intc_q3_2026.m4a,0,,0.52,0.41,16510000000,16560000000,Non-GAAP EPS.,Street expects Q4 revenue of about $17.1 billion and non-GAAP EPS of about $0.43.,
+AMD_2026Q2,AMD,AMD,2026-08-04 17:00,amd_q2_2026.m4a,0,,1.66,1.62,11530000000,11310000000,Non-GAAP EPS.,,
+TXN_2026Q3,TXN,Texas Instruments,2026-10-21 16:30,txn_q3_2026.m4a,0,,2.64,2.41,6055000000,,Revenue estimate not found.,Street expects Q4 EPS of about $2.67.,
+IBM_2026Q3,IBM,IBM,2026-10-21 17:00,ibm_q3_2026.m4a,0,,2.95,2.86,17100000000,16820000000,Operating EPS.,,
+SBUX_2026Q4,SBUX,Starbucks,2026-10-29 16:15,sbux_q4_2026.m4a,0,,0.80,0.71,9323000000,,FY26 Q4. Source labeling was inconsistent; EPS figures worth double-checking.,Street expects next-quarter EPS of about $0.75.,
+CMG_2026Q3,CMG,Chipotle,2026-10-28 16:30,cmg_q3_2026.m4a,0,,0.27,0.29,3293000000,,Source labeling was inconsistent; EPS figures worth double-checking.,,
+LRCX_2026Q3,LRCX,Lam Research,2026-10-21 17:00,lrcx_q3_2026.m4a,0,,2.20,2.17,8220000000,8140000000,FY27 Q1 (Sep qtr). Non-GAAP EPS.,Street expects December-quarter revenue of about $8.6 billion.,
+EBAY_2026Q3,EBAY,eBay,2026-10-28 17:30,ebay_q3_2026.m4a,0,,1.51,1.41,3206000000,3120000000,Non-GAAP EPS.,Street expects Q4 revenue of about $3.20 billion and non-GAAP EPS of about $1.48.,
+MCHP_2027Q2,MCHP,Microchip Technology,2026-11-05 17:00:35,mchp_q2_2027.m4a,0,,0.97,0.94,1622000000,1610000000,FY27 Q2 (Sep qtr). Non-GAAP EPS. Start measured from live log (call began ~35s late).,Street expects December-quarter revenue of about $1.63 billion and non-GAAP EPS of about $0.95.,yes
